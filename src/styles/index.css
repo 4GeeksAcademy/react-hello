@@ -1,6 +1,5 @@
 
 /* 
-
     You can write your own styles here...
     
     
@@ -10,3 +9,32 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.jumbotron{
+    background-color: #EAECEF;
+    border-radius: 5px;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 16px 10px;
+}
+
+.cards{
+    padding: 35px;
+}
+
+#headerNavB{
+    justify-content: space-between;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#navbarNav{
+    flex-grow: 0;
+}
+
+.footerDiv{
+    margin-top: 50px;
+    min-width: 100%;
+    padding: 30px;
+}
