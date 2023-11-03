@@ -1,0 +1,29 @@
+.counterTitle {
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    background-color: gold;
+    
+}
+.counterUnit {
+    font-size: 100px;
+    font-weight: bold;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+}
+.buttonStart {
+    background-color: red;
+    color: white;
+}
+.buttonStop {
+    background-color: white;
+    color: black;
+}
+.buttonRestart {
+    background-color: blue;
+    color: white;
+}
