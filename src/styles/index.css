@@ -1,12 +1,90 @@
+/* Componente (Cards)*/
+.cartas-contenedor{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
 
-/* 
+@media (max-width: 767px) {
+    .cartas-contenedor {
+      justify-content: center;
+    }
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.card{
+    margin-bottom: 20px;
+}
+  
 
-*/
+.button-container{
+    background-color: rgb(240, 236, 236);
+    padding: 10px 0;
+    border-top: 1px solid rgb(223, 220, 220);
+}
+
+.button{
+    border-radius: 2px;
+}
+
+.card-text{
+    margin: 15px;
+}
+
+/* Componente (footer)*/
+
+.footer{
+    background-color: rgb(44, 44, 44);
+    color: white;
+    height: 90px;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+    padding: 1em;
+}
+
+
+/* Estilos generales */
+#app{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+body{
+    display:grid;
+    min-height: 100vh;
+}
+
+
+
+
+
+.jumbotron{
+    background-color: rgb(237, 232, 232);
+    padding: 20px 20px 40px 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: start;
+ }
+
+ .titulo{
+    font-weight: 350;
+ }
+
+ .navbar-nav{
+     opacity: 0.8;
+     padding: 0;
+     margin:0;
+ }
+
+ .navbar-hijo{
+    text-align: start;
+ }
+
+ .navbar-links{
+    flex-grow: 0;
+ }
