@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.jumbotron{
+    margin-top: 20px;
+    align-items: flex-start !important;
+    flex-direction: column !important;
+}
+.nav-item{
+    text-align: left;
+}
+.carousel{
+    width: 80%;
+    margin-top: 20px;
+}
