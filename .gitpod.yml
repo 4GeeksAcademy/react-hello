@@ -1,0 +1,14 @@
+ports:
+  - port: 8080
+    onOpen: open-preview
+    visibility: public
+
+tasks:
+  - before: nvm install 16
+    init: npm install
+    command: npm run start
+
+
+vscode:
+  extensions:
+    - esbenp.prettier-vscode
