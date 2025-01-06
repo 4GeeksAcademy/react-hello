@@ -1,5 +1,7 @@
 # Hello World con la platilla de React
 
+> 🎥 Esta plantilla [cuenta con un video tutorial](https://youtu.be/oGpSVBsq7BA), para verlo haz clic aquí.
+
 Comienza a codificar una aplicación con React.
 
 > Si estás trabajando localmente en lugar de usar Codespaces o Gitpod, por favor sigue los [pasos de instalación local](#instalación-local-sáltalo-si-estás-trabajando-en-codespaces-o-gitpod) y regresa a esta parte del README.
