@@ -1,0 +1,15 @@
+{
+  "title": {
+    "en": "React.js Starter Template for Beginners",
+    "es": "Plantilla Inicial para empezar proyectos de React.js para principiantes"
+  },
+  "description": {
+    "en": "This is a starter template for React.js projects. It includes a basic folder structure, a sample component, styles and other usual configurations to quicly kickstart your project.",
+    "es": "Este es una plantilla inicial para proyectos de React.js. Incluye una estructura básica de carpetas, un componente de ejemplo, estilos y otras configuraciones habituales para iniciar rápidamente tu proyecto."
+  },
+  "repository": "https://github.com/4geeksacademy/react-hello-vite",
+  "preview": "",
+  "projectType": "template",
+  "difficulty": "beginner",
+  "technologies": ["React.js", "Javascript", "Vite"]
+}
