@@ -26,7 +26,7 @@ $ cd react-hello
 
 Este boilerplate es 100% compatible con los servicios de alojamiento gratuitos [GitHub Pages](https://pages.github.com/) y [Vercel](https://vercel.com/).
 
-Solo toma 2 minutos desplegarlo, [haz clic aquí para comenzar el proceso](https://github.com/4GeeksAcademy/react-hello/blob/master/docs/DEPLOY.md).
+Solo toma 2 minutos desplegarlo, [haz clic aquí para comenzar el proceso](https://4geeks.com/docs/start/deploy-to-render-com).
 
 ## Otras características
 
